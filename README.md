@@ -1,4 +1,5 @@
-# Webb-Universe
+# webb-universe
+## [webbuniverse.com](https://www.webbuniverse.com)
 
 WU is a **concept** of a web app built for a casual gaming community. Currently, it's more-or-less a component playground. The project aims to build a set of community tools and game-related features. It intends to be the primary source of truth for WU Council management, registries, operations, and principle.
 
