@@ -1,3 +1,0 @@
-### Client config
-
-Work in progress...
