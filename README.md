@@ -62,7 +62,7 @@ WU is a **concept** of a web app built for a casual gaming community. Currently,
 
 ## License
 
-This project has no license.
+MIT
 
 [wuUrl]: https://www.webbuniverse.com
 [wuDevUrl]: https://dev.webbuniverse.com
