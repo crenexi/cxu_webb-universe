@@ -1,8 +1,9 @@
 # webb-universe
 
 - [webbuniverse.com](https://webbuniverse.com) | [dev.webbuniverse.com](https://dev.webbuniverse.com) <== **WU Site**
-- [api.webbuniverse.com](https://api.webbuniverse.com) <== **WU API**
+- [blog.webbuniverse.com](https://blog.webbuniverse.com) <== **WU Blog**
 - [admin.webbuniverse.com](https://admin.webbuniverse.com) <== **WU Admin**
+- [api.webbuniverse.com](https://api.webbuniverse.com) <== **WU API**
 
 WU is a **concept** of a web app built for a casual gaming community. Currently, it's more-or-less a component playground. The project aims to build a set of community tools and game-related features. It intends to be the primary source of truth for WU Council management, registries, operations, and principle.
 
@@ -66,4 +67,5 @@ This project has no license.
 [wuUrl]: https://www.webbuniverse.com
 [wuDevUrl]: https://dev.webbuniverse.com
 [wuApiUrl]: https://api.webbuniverse.com
-[wuAdminUrl]:
+[wuAdminUrl]: https://admin.webbuniverse.com
+[wuBlogUrl]: https://blog.webbuniverse.com
